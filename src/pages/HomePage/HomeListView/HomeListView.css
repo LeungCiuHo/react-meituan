@@ -1,6 +1,7 @@
 .list-wrapper {
     background: #fff;
     padding: 0 10px;
+    margin-top: -10px;
 }
 .home-list-view {
     width: 100vw;
