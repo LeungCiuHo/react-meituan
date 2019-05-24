@@ -1,0 +1,7 @@
+.demo-list-view{
+    height: 100%;
+}
+
+.am-tab-bar-item > div:nth-child(1) {
+    height: 100%;
+}

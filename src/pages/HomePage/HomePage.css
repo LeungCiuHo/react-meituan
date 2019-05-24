@@ -1,0 +1,50 @@
+.nav-left {
+    display: flex;
+    padding: 1.5vw 0;
+    width: 25vw;
+    height: 100%;
+}
+
+.nav-left .icon {
+    flex: 0 0 9vw;
+    width: 9vw;
+}
+
+.nav-left .city-wrapper {
+    margin-left: 1vw;
+    flex: 1;
+    font-size: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #000;
+}
+
+.nav-left .location {
+    flex: 0 0 4vw;
+}
+
+.nav-left .city {
+    font-size: 14px;
+    line-height: 4vw;
+}
+.nav-left .am-icon {
+    vertical-align: top;
+}
+
+.nav-left .weather {
+    flex: 0 0 4vw;
+    color: #666;
+    font-size: 12px;
+}
+
+.nav-title {
+    width: 50vw;
+}
+.nav-title .search-normal {
+    background: #eee;
+    color: #909090;
+}
+.nav-title .search-active {
+    background: #ddd;
+}

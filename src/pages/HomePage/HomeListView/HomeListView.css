@@ -1,0 +1,13 @@
+.list-wrapper {
+    background: #fff;
+    padding: 0 10px;
+}
+.home-list-view {
+    width: 100vw;
+    height: 100%;
+}
+
+.am-list-header {
+    padding: 45px 0 0;
+    width: 100vw;
+}
